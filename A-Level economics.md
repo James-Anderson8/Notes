@@ -190,3 +190,15 @@
 174. Keynesian view reasoning - When there is a shock, the free market repairs itself very slowly and requires the government to boost demand to speed up the process.
 175. Classical views - Economy operates at full capacity on its own.
 176. Classical views reasoning - When demand falls the economy does recover quickly because wages and prices easily adjust
+177. Utility - Satisfaction / Benefit
+178. Herd behaviour - Cognitive bias, people influenced by people around them.
+179. Price mechanism - When consumers buy G+S from producers.
+180. Welfare gain/loss - How much society benefits from an externality.
+181. Demand - The quantity of a product that consumers are willing and able to buy at a given price
+182. Substitute good - Alternatives. If the price of one good goes up, demand for the other goes up. (beef and lamb)
+183. PED - Measure of how demand responds to changes in price.
+184. Economies of scale - As output increases, cost per unit decreases
+185. Opportunity cost - The benefit gained from giving up the next best alternative
+186. Ceteris paribus - All other things remaining equal
+187. Monopoly - When a large firm dominates a market, low barriers to entry
+188. Government intervention - Taxes and subsidies in order to try and correct market failure.
